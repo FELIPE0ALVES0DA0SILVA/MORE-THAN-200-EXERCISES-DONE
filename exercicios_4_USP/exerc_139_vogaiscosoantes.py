@@ -16,6 +16,3 @@ def conta_letras(frase, contar='vogais'):
             if ord(cada) not in [a, e, i, o, u] and ord('z') > ord(cada) > ord('a'):
                 conta += 1
     return conta
-
-frase =  str(input('DIgite a frase a ser analisada: '))
-print(f'A frase analisada contém {conta_letras(frase)} consoantes')
