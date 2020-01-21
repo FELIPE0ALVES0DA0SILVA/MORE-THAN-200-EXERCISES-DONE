@@ -11,4 +11,3 @@ from random import randrange
 class Test_BUSCArecursiva:
     def test_BUSCABINARIA(self, lis, elemento, esperado):
         assert busca_binaria_recursiva(lis, elemento) == esperado
-
