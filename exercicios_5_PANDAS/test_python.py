@@ -16,6 +16,3 @@ def test_fatir0():
 
 def test_fatir5():
     assert fatir(5) == 120
-
-
-
