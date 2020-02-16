@@ -3,5 +3,5 @@ message = message.replace("talk", "dream")
 greeting = "Hallo"
 name = "Lucas"
 
- print(f"{greeting}, {name.upper()}, {message.capitalize()} kkkkk")
+print(f"{greeting}, {name.upper()}, {message.capitalize()} kkkkk")
 print(help(str.format))
