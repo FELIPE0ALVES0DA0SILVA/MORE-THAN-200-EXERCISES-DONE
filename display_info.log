@@ -1,0 +1,10 @@
+INFO:root:Ran with args: (('Felipe', 21), {})
+INFO:root:Ran with args: (('Felipe', 21), {})
+INFO:root:Ran with args: (('Leonardo', 19), {})
+INFO:root:Ran with args: ('Leonardo', 19), and kwargs {}
+INFO:root:Ran with args: ('Leonardo',), and kwargs {'age': 19}
+INFO:root:Ran with args: ('Leonardo',), and kwargs {'age': 19}
+INFO:root:Ran with args: ('Leonardo',), and kwargs {'age': 19}
+INFO:root:Ran with args: ('Leo',), and kwargs {'age': 20}
+INFO:root:Ran with args: ('Leo',), and kwargs {'age': 20}
+INFO:root:Ran with args: ('Ludmila',), and kwargs {'age': 13}
