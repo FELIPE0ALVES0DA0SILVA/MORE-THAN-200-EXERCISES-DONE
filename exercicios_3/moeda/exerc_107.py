@@ -3,9 +3,9 @@
 
 # Make also a program that import that module and use some of those functions.
 
-from exercicios_3.moeda import money
+from utilidades import money
 
-numero = int(input('Digite o valor a ser calculado: '))
+numero = int(input("Digite o valor a ser calculado: "))
 print(money.aumentar(numero))
 print(money.diminuir(numero))
 print(money.dobra(numero))
